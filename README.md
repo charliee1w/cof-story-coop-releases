@@ -6,6 +6,6 @@ Downloads for Cry of Fear Story Co-op, the original Cry of Fear campaign for 2 t
 
 You need Windows 10 or 11 and Cry of Fear from Steam (it's free). Extract the zip, run `CoF Story Co-op.exe` and click **Set up**. `READ ME FIRST.txt` in the zip has the rest.
 
-This repository only holds the release zips, and the app checks it for updates. Each zip includes the engine's source code (GPL) in `source-and-licences`.
+This repository only holds the release zips, and the app checks it for updates. The source code is at [cof-story-coop](https://github.com/charliee1w/cof-story-coop), and each zip also includes the engine's source (GPL) in `source-and-licences`.
 
 Cry of Fear Story Co-op is a fan project, not made or endorsed by Team Psykskallar, the makers of Cry of Fear. Cry of Fear itself isn't included: the app uses your own Steam copy.
